@@ -1,0 +1,13 @@
+lt:
+  label_redmineup_settings: Pinigų nustatymai
+  label_redmineup_money: Pinigai
+  label_redmineup_disable_taxes: Išjungti mokesčius
+  label_redmineup_default_tax: Numatytoji mokesčio reikšmė
+  label_redmineup_tax_type: Mokesčio tipas
+  label_redmineup_tax_type_exclusive: Mokestis neįtrauktas
+  label_redmineup_tax_type_inclusive: Mokestis įtrauktas
+  label_redmineup_default_currency: Numatytoji valiuta
+  label_redmineup_major_currencies: Pagrindinės valiutos
+  label_redmineup_thousands_delimiter: Tūkstančių skirtukas
+  label_redmineup_decimal_separator: Dešimtainis skirtukas
+  lable_redmineup_add_tag: pridėti žymą

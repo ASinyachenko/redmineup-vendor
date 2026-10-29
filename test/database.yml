@@ -1,0 +1,17 @@
+sqlite:
+  adapter: sqlite3
+  database: ":memory:"
+
+mysql:
+  adapter: mysql2
+  database: redmineup_test
+  username: root
+  password: password
+  host: mysql
+
+postgresql:
+  adapter: postgresql
+  database: redmineup_test
+  user: postgres
+  password: password
+  host: postgres

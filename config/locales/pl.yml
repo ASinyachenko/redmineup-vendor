@@ -1,0 +1,13 @@
+pl:
+  label_redmineup_settings: Ustawienia walut
+  label_redmineup_money: Waluta
+  label_redmineup_disable_taxes: Wyłącz podatki
+  label_redmineup_default_tax: Domyślna wartość podatku
+  label_redmineup_tax_type: Typ podatku
+  label_redmineup_tax_type_exclusive: Podatek nie jest wliczony
+  label_redmineup_tax_type_inclusive: Podatek wliczony
+  label_redmineup_default_currency: Domyślna waluta
+  label_redmineup_major_currencies: Główne waluty
+  label_redmineup_thousands_delimiter: Separator tysięcy
+  label_redmineup_decimal_separator: Separator dziesiętny
+  lable_redmineup_add_tag: dodaj tag

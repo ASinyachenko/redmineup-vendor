@@ -1,0 +1,13 @@
+th:
+  label_redmineup_settings: การตั้งค่าเงิน
+  label_redmineup_money: เงิน
+  label_redmineup_disable_taxes: ปิดใช้งานภาษี
+  label_redmineup_default_tax: ค่าภาษีเริ่มต้น
+  label_redmineup_tax_type: ประเภทภาษี
+  label_redmineup_tax_type_exclusive: ไม่รวมภาษี
+  label_redmineup_tax_type_inclusive: รวมภาษี
+  label_redmineup_default_currency: สกุลเงินเริ่มต้น
+  label_redmineup_major_currencies: สกุลเงินหลัก
+  label_redmineup_thousands_delimiter: ตัวคั่นหลักพัน
+  label_redmineup_decimal_separator: ตัวคั่นทศนิยม
+  lable_redmineup_add_tag: เพิ่มแท็ก

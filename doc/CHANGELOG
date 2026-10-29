@@ -1,0 +1,153 @@
+== RedmineUP gem changelog
+
+Redmine UP gem - general functions for plugins (tags, vote, viewing, currency)
+Copyright (C) 2011-2026 Kirill Bezrukov (RedmineUP)
+https://www.redmineup.com/
+
+== 2026-10-28 v1.1.18
+
+* Added up_acts_as_journalized: change history for any model
+* Added open_only option to Issue available_tags
+* Updated tags: no commas between chips
+* Fixed tags text color and wrapping in tables
+
+== 2026-10-24 v1.1.17
+
+* Fixed gem breaking Redmine 5.0-6.0 on start (Norwegian locale)
+
+== 2026-10-24 v1.1.16
+
+* Added shared styles for tag chips: colored, gray, link
+* Added tag_label, tag_label_link(s), tag_sidebar_cloud helpers
+* Added tag and tag-merge icons
+* Added translations for all languages supported by Redmine
+* Fixed websocket reconnection every minute behind nginx
+* Fixed error on deleting a person when the viewed model loads later
+* Fixed trailing ".0" in amounts of currencies without a fractional unit
+
+== 2026-10-11 v1.1.15
+
+* Speeded up the tags list query (available_tags) on pages with a lot of tagged records
+
+== 2026-10-09 v1.1.14
+
+* Fixed missing calendar icons and extra padding in Redmine 6/7
+* Fixed tag field width in forms
+
+== 2026-08-25 v1.1.13
+
+* Updated patches from include to prepend
+
+== 2026-07-23 v1.1.12
+
+* Fixed race condition and added exponential backoff to shared worker websocket reconnect logic
+* Added `Redmineup::TestHelper#load_plugin_fixtures` for loading plugin test fixtures
+
+== 2026-06-26 v1.1.11
+
+* Added shared workers for websocket connection
+
+== 2026-06-04 v1.1.10
+
+* Added colorpicker JS component to shared gem assets, loaded globally via `redmineup_assets`
+* Fixed viewings table ip column limit to 45 characters for IPv6 address support
+
+== 2026-05-30 v1.1.9
+
+* Added `prices_formatted_collection` to `MoneyHelper` — returns plain text price strings from currency hash, used by query totals
+
+== 2026-05-01 v1.1.8
+
+* Added `on_select` callback and `select_icon` options for `select2tag` helper
+* Updated `requires_redmineup` version guard to reduce boilerplate in plugin init
+* Fixed `link_to` display compatibility issue in Redmine 5
+
+== 2026-04-18 v1.1.7
+
+* hot fix for atom/rss compatibility for redmine < 5
+
+== 2026-04-17 v1.1.6
+
+* Added helpers for timezone conversions
+
+== 2026-04-17 v1.1.5
+
+* Added tag cloud links helper with URL convention by key
+* Added shared tag list fields for views and FormBuilder
+* Added shared tag autocomplete route for taggable models
+* Updated layout hook to load shared gem assets globally
+* Updated tag helpers registration in ActionView context
+* Fixed tag color fallback for backward compatibility
+* Fixed helper behavior for Ruby 2.3 compatibility
+
+== 2026-04-10 v1.1.4
+
+* Fixed tag queries for MSSQL adapter
+
+== 2026-03-10 v1.1.3
+
+* Added send method for ActionCable
+* Fixed ActionCable compatibility with cable.yaml apply
+
+== 2025-11-07 v1.1.2
+
+* Fixed shared assets loading error
+
+== 2025-10-01 v1.1.1
+
+* Updated sprite_icon patch activation logic
+
+== 2025-07-24 v1.1.0
+
+* Added ActionCable methods for plugin integrations
+* Added SVG icon support for context menu actions
+* Fixed tag migration method for old Rails versions
+
+== 2025-07-09 v1.0.13
+
+* Added tag color support in tag model behavior
+
+== 2025-07-08 v1.0.12
+
+* Added tag color selection functionality
+
+== 2025-03-30 v1.0.11
+
+* Fixed ApplicationRecord loading compatibility
+
+== 2025-02-04 v1.0.10
+
+* Fixed SVG icon compatibility for older Redmine code
+
+== 2025-02-04 v1.0.9
+
+* Added regex_replace Liquid filter
+* Added SVG icons for Redmine 6
+* Fixed Liquid internal error in filter execution
+* Fixed parse_inline_attachments Liquid filter behavior
+
+== 2025-01-31 v1.0.8
+
+* Fixed compatibility patch for Redmine versions below 5
+
+== 2025-01-29 v1.0.7
+
+* Added sprite_icon compatibility patch for Redmine 6
+* Fixed parse_inline_attachments Liquid filter behavior
+
+== 2024-05-07 v1.0.6
+
+* Added attachments to IssueDrop and JournalDrop
+* Added parse_inline_attachments filter for image URL fix
+* Updated Chart.js library to version 3.9.1
+* Fixed asset paths for Redmine 5.3 and newer
+
+== 2024-01-31 v1.0.5
+
+* Added plugin_installed? helper for plugin checks
+* Fixed ApplicationRecord compatibility patch behavior
+
+== 2023-10-12 v1.0.1
+
+* Added initial public release
+* Updated module name from RedmineUp to Redmineup

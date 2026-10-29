@@ -1,0 +1,13 @@
+ar:
+  label_redmineup_settings: إعدادات المال
+  label_redmineup_money: المال
+  label_redmineup_disable_taxes: تعطيل الضرائب
+  label_redmineup_default_tax: قيمة الضريبة الافتراضية
+  label_redmineup_tax_type: نوع الضريبة
+  label_redmineup_tax_type_exclusive: الضريبة غير شاملة
+  label_redmineup_tax_type_inclusive: الضريبة شاملة
+  label_redmineup_default_currency: العملة الافتراضية
+  label_redmineup_major_currencies: العملات الرئيسية
+  label_redmineup_thousands_delimiter: فاصل الآلاف
+  label_redmineup_decimal_separator: الفاصل العشري
+  lable_redmineup_add_tag: إضافة وسم

@@ -1,0 +1,33 @@
+<% new_markup = up_journal_new_markup? %>
+<% Journal.preload_journals_details_custom_fields(journals.to_a) %>
+<div class="journals">
+  <% journals.to_a.each do |journal| %>
+    <div id="change-<%= journal.id %>" class="<%= journal.css_classes %>">
+      <div class="note">
+        <% if new_markup %>
+          <h4 class="journal-header">
+            <span class="journal-info">
+              <%= avatar(journal.user) %>
+              <%= authoring journal.created_on, journal.user, label: :label_updated_time_by %>
+            </span>
+          </h4>
+        <% else %>
+          <h4 class="note-header">
+            <%= avatar(journal.user) %>
+            <%= authoring journal.created_on, journal.user, label: :label_updated_time_by %>
+          </h4>
+        <% end %>
+        <%= content_tag('div', class: ('journal-content' if new_markup)) do %>
+          <% if journal.visible_details.any? %>
+            <%= content_tag('ul', class: new_markup ? 'journal-details' : 'details') do %>
+              <% journal.visible_details.each do |detail| %>
+                <li><%= up_journal_detail(detail, journal) %></li>
+              <% end %>
+            <% end %>
+          <% end %>
+          <%= content_tag('div', textilizable(journal, :notes), class: 'wiki') if show_notes && journal.notes.present? %>
+        <% end %>
+      </div>
+    </div>
+  <% end %>
+</div>

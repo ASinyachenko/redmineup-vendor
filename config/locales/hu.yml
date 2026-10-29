@@ -1,0 +1,13 @@
+hu:
+  label_redmineup_settings: Pénzügyi beállítások
+  label_redmineup_money: Pénz
+  label_redmineup_disable_taxes: Adók kikapcsolása
+  label_redmineup_default_tax: Alapértelmezett adóérték
+  label_redmineup_tax_type: Adó típusa
+  label_redmineup_tax_type_exclusive: Adó nélkül
+  label_redmineup_tax_type_inclusive: Adóval
+  label_redmineup_default_currency: Alapértelmezett pénznem
+  label_redmineup_major_currencies: Fő pénznemek
+  label_redmineup_thousands_delimiter: Ezres elválasztó
+  label_redmineup_decimal_separator: Tizedeselválasztó
+  lable_redmineup_add_tag: címke hozzáadása

@@ -1,0 +1,13 @@
+ko:
+  label_redmineup_settings: 통화 설정
+  label_redmineup_money: 통화
+  label_redmineup_disable_taxes: 세금 사용 안 함
+  label_redmineup_default_tax: 기본 세금 값
+  label_redmineup_tax_type: 세금 유형
+  label_redmineup_tax_type_exclusive: 세금 별도
+  label_redmineup_tax_type_inclusive: 세금 포함
+  label_redmineup_default_currency: 기본 통화
+  label_redmineup_major_currencies: 주요 통화
+  label_redmineup_thousands_delimiter: 천 단위 구분 기호
+  label_redmineup_decimal_separator: 소수점 기호
+  lable_redmineup_add_tag: 태그 추가

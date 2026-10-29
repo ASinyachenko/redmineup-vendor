@@ -1,0 +1,14 @@
+cs:
+  label_redmineup_settings: Peníze
+  label_redmineup_money: Peníze
+
+  label_redmineup_disable_taxes: Znemožnit daně
+  label_redmineup_default_tax: Výchozí hodnota daně
+  label_redmineup_tax_type: Typ daně
+  label_redmineup_tax_type_exclusive: Bez daně
+  label_redmineup_tax_type_inclusive: Včetně daně
+  label_redmineup_default_currency: Výchozí měna
+  label_redmineup_major_currencies: Hlavní měny
+  label_redmineup_thousands_delimiter: Oddělovač tisíců
+  label_redmineup_decimal_separator: Desetinný oddělovač
+  lable_redmineup_add_tag: přidat štítek

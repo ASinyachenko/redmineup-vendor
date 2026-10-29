@@ -1,0 +1,13 @@
+vi:
+  label_redmineup_settings: Cài đặt tiền tệ
+  label_redmineup_money: Tiền tệ
+  label_redmineup_disable_taxes: Tắt thuế
+  label_redmineup_default_tax: Giá trị thuế mặc định
+  label_redmineup_tax_type: Loại thuế
+  label_redmineup_tax_type_exclusive: Chưa bao gồm thuế
+  label_redmineup_tax_type_inclusive: Đã bao gồm thuế
+  label_redmineup_default_currency: Tiền tệ mặc định
+  label_redmineup_major_currencies: Tiền tệ chính
+  label_redmineup_thousands_delimiter: Dấu phân cách hàng nghìn
+  label_redmineup_decimal_separator: Dấu phân cách thập phân
+  lable_redmineup_add_tag: thêm thẻ

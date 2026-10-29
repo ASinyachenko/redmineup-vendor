@@ -1,0 +1,13 @@
+sq:
+  label_redmineup_settings: Cilësimet e parasë
+  label_redmineup_money: Para
+  label_redmineup_disable_taxes: Çaktivizo taksat
+  label_redmineup_default_tax: Vlera e parazgjedhur e taksës
+  label_redmineup_tax_type: Lloji i taksës
+  label_redmineup_tax_type_exclusive: Pa taksë të përfshirë
+  label_redmineup_tax_type_inclusive: Me taksë të përfshirë
+  label_redmineup_default_currency: Monedha e parazgjedhur
+  label_redmineup_major_currencies: Monedhat kryesore
+  label_redmineup_thousands_delimiter: Ndarësi i mijësheve
+  label_redmineup_decimal_separator: Ndarësi dhjetor
+  lable_redmineup_add_tag: shto etiketë

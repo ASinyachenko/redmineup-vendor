@@ -1,0 +1,10 @@
+<%= title l(:label_redmineup_settings) %>
+
+<div id="settings">
+  <%= form_tag({ action: 'settings', id: @section[:id] }) do %>
+    <div class="box tabular settings">
+      <%= render partial: 'money' %>
+    </div>
+    <%= submit_tag l(:button_apply) %>
+  <% end %>
+</div>

@@ -1,0 +1,13 @@
+he:
+  label_redmineup_settings: הגדרות כסף
+  label_redmineup_money: כסף
+  label_redmineup_disable_taxes: השבתת מסים
+  label_redmineup_default_tax: ערך מס ברירת מחדל
+  label_redmineup_tax_type: סוג מס
+  label_redmineup_tax_type_exclusive: לא כולל מס
+  label_redmineup_tax_type_inclusive: כולל מס
+  label_redmineup_default_currency: מטבע ברירת מחדל
+  label_redmineup_major_currencies: מטבעות עיקריים
+  label_redmineup_thousands_delimiter: מפריד אלפים
+  label_redmineup_decimal_separator: מפריד עשרוני
+  lable_redmineup_add_tag: הוסף תגית

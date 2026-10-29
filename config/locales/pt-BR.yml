@@ -1,0 +1,13 @@
+pt-BR:
+  label_redmineup_settings: Configurações de moeda
+  label_redmineup_money: Moeda
+  label_redmineup_disable_taxes: Desativar impostos
+  label_redmineup_default_tax: Valor de imposto padrão
+  label_redmineup_tax_type: Tipo de imposto
+  label_redmineup_tax_type_exclusive: Imposto não incluído
+  label_redmineup_tax_type_inclusive: Imposto incluído
+  label_redmineup_default_currency: Moeda padrão
+  label_redmineup_major_currencies: Moedas principais
+  label_redmineup_thousands_delimiter: Separador de milhares
+  label_redmineup_decimal_separator: Separador decimal
+  lable_redmineup_add_tag: adicionar tag

@@ -1,0 +1,13 @@
+fa:
+  label_redmineup_settings: تنظیمات پول
+  label_redmineup_money: پول
+  label_redmineup_disable_taxes: غیرفعال کردن مالیات
+  label_redmineup_default_tax: مقدار پیش‌فرض مالیات
+  label_redmineup_tax_type: نوع مالیات
+  label_redmineup_tax_type_exclusive: بدون مالیات
+  label_redmineup_tax_type_inclusive: با مالیات
+  label_redmineup_default_currency: ارز پیش‌فرض
+  label_redmineup_major_currencies: ارزهای اصلی
+  label_redmineup_thousands_delimiter: جداکننده هزارگان
+  label_redmineup_decimal_separator: جداکننده اعشار
+  lable_redmineup_add_tag: افزودن برچسب

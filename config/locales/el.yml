@@ -1,0 +1,13 @@
+el:
+  label_redmineup_settings: Ρυθμίσεις νομίσματος
+  label_redmineup_money: Νόμισμα
+  label_redmineup_disable_taxes: Απενεργοποίηση φόρων
+  label_redmineup_default_tax: Προεπιλεγμένη τιμή φόρου
+  label_redmineup_tax_type: Τύπος φόρου
+  label_redmineup_tax_type_exclusive: Χωρίς φόρο
+  label_redmineup_tax_type_inclusive: Με φόρο
+  label_redmineup_default_currency: Προεπιλεγμένο νόμισμα
+  label_redmineup_major_currencies: Κύρια νομίσματα
+  label_redmineup_thousands_delimiter: Διαχωριστικό χιλιάδων
+  label_redmineup_decimal_separator: Διαχωριστικό δεκαδικών
+  lable_redmineup_add_tag: προσθήκη ετικέτας

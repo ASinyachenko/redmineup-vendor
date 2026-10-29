@@ -1,0 +1,13 @@
+sk:
+  label_redmineup_settings: Nastavenia meny
+  label_redmineup_money: Mena
+  label_redmineup_disable_taxes: Vypnúť dane
+  label_redmineup_default_tax: Predvolená hodnota dane
+  label_redmineup_tax_type: Typ dane
+  label_redmineup_tax_type_exclusive: Daň nie je zahrnutá
+  label_redmineup_tax_type_inclusive: Daň je zahrnutá
+  label_redmineup_default_currency: Predvolená mena
+  label_redmineup_major_currencies: Hlavné meny
+  label_redmineup_thousands_delimiter: Oddeľovač tisícov
+  label_redmineup_decimal_separator: Desatinný oddeľovač
+  lable_redmineup_add_tag: pridať štítok

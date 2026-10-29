@@ -1,0 +1,13 @@
+eu:
+  label_redmineup_settings: Diru ezarpenak
+  label_redmineup_money: Dirua
+  label_redmineup_disable_taxes: Desgaitu zergak
+  label_redmineup_default_tax: Zerga balio lehenetsia
+  label_redmineup_tax_type: Zerga mota
+  label_redmineup_tax_type_exclusive: Zerga barne ez
+  label_redmineup_tax_type_inclusive: Zerga barne
+  label_redmineup_default_currency: Moneta lehenetsia
+  label_redmineup_major_currencies: Moneta nagusiak
+  label_redmineup_thousands_delimiter: Milakoen bereizlea
+  label_redmineup_decimal_separator: Hamartar bereizlea
+  lable_redmineup_add_tag: gehitu etiketa

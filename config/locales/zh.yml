@@ -1,0 +1,13 @@
+zh:
+  label_redmineup_settings: 货币设置
+  label_redmineup_money: 货币
+  label_redmineup_disable_taxes: 禁用税费
+  label_redmineup_default_tax: 默认税额
+  label_redmineup_tax_type: 税费类型
+  label_redmineup_tax_type_exclusive: 不含税
+  label_redmineup_tax_type_inclusive: 含税
+  label_redmineup_default_currency: 默认货币
+  label_redmineup_major_currencies: 主要货币
+  label_redmineup_thousands_delimiter: 千位分隔符
+  label_redmineup_decimal_separator: 小数分隔符
+  lable_redmineup_add_tag: 添加标签

@@ -1,0 +1,13 @@
+ja:
+  label_redmineup_settings: 通貨設定
+  label_redmineup_money: 通貨
+  label_redmineup_disable_taxes: 税を無効にする
+  label_redmineup_default_tax: デフォルトの税額
+  label_redmineup_tax_type: 税の種類
+  label_redmineup_tax_type_exclusive: 税別
+  label_redmineup_tax_type_inclusive: 税込
+  label_redmineup_default_currency: デフォルト通貨
+  label_redmineup_major_currencies: 主要通貨
+  label_redmineup_thousands_delimiter: 桁区切り
+  label_redmineup_decimal_separator: 小数点記号
+  lable_redmineup_add_tag: タグを追加

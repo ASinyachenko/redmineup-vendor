@@ -1,0 +1,13 @@
+bs:
+  label_redmineup_settings: Postavke novca
+  label_redmineup_money: Novac
+  label_redmineup_disable_taxes: Onemogući poreze
+  label_redmineup_default_tax: Zadana vrijednost poreza
+  label_redmineup_tax_type: Vrsta poreza
+  label_redmineup_tax_type_exclusive: Porez nije uključen
+  label_redmineup_tax_type_inclusive: Porez je uključen
+  label_redmineup_default_currency: Zadana valuta
+  label_redmineup_major_currencies: Glavne valute
+  label_redmineup_thousands_delimiter: Razdjelnik hiljada
+  label_redmineup_decimal_separator: Decimalni razdjelnik
+  lable_redmineup_add_tag: dodaj oznaku

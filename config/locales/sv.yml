@@ -1,0 +1,13 @@
+sv:
+  label_redmineup_settings: Penninginställningar
+  label_redmineup_money: Pengar
+  label_redmineup_disable_taxes: Inaktivera skatter
+  label_redmineup_default_tax: Standardskattevärde
+  label_redmineup_tax_type: Skatttyp
+  label_redmineup_tax_type_exclusive: Exklusive skatt
+  label_redmineup_tax_type_inclusive: Inklusive skatt
+  label_redmineup_default_currency: Standardvaluta
+  label_redmineup_major_currencies: Huvudvalutor
+  label_redmineup_thousands_delimiter: Tusentalsavgränsare
+  label_redmineup_decimal_separator: Decimalavgränsare
+  lable_redmineup_add_tag: lägg till tagg

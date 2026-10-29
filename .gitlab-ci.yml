@@ -1,0 +1,33 @@
+default:
+  services:
+    - mysql:8
+    - postgres:15
+
+variables:
+  MYSQL_DATABASE: redmineup_test
+  MYSQL_ROOT_PASSWORD: password
+  POSTGRES_DB: redmineup_test
+  POSTGRES_PASSWORD: password
+
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE != "merge_request_event"
+
+ruby-3.1.7:
+  stage: test
+  image: ruby:3.1.7-bookworm
+  script:
+    - bundle install
+    - bundle exec rake test DB=sqlite
+    - bundle exec rake test DB=postgresql
+    - bundle exec rake test DB=mysql
+
+ruby-4.0.2:
+  stage: test
+  image: ruby:4.0.2-bookworm
+  script:
+    - sed -i "s/spec.add_development_dependency 'pg'/spec.add_development_dependency 'pg'\n  spec.add_development_dependency 'minitest-mock'/g" redmineup.gemspec
+    - bundle install
+    - bundle exec rake test DB=sqlite
+    - bundle exec rake test DB=postgresql
+    - bundle exec rake test DB=mysql

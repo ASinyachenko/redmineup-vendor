@@ -1,0 +1,13 @@
+lv:
+  label_redmineup_settings: Valūtas iestatījumi
+  label_redmineup_money: Valūta
+  label_redmineup_disable_taxes: Atslēgt nodokļus
+  label_redmineup_default_tax: Noklusētā nodokļa vērtība
+  label_redmineup_tax_type: Nodokļa veids
+  label_redmineup_tax_type_exclusive: Nodoklis nav iekļauts
+  label_redmineup_tax_type_inclusive: Nodoklis iekļauts
+  label_redmineup_default_currency: Noklusētā valūta
+  label_redmineup_major_currencies: Galvenās valūtas
+  label_redmineup_thousands_delimiter: Tūkstošu atdalītājs
+  label_redmineup_decimal_separator: Decimālais atdalītājs
+  lable_redmineup_add_tag: pievienot tagu

@@ -1,0 +1,13 @@
+error:
+  name: error
+  
+feature:
+  name: New feature
+  color: 11184810
+  
+bug:
+  name: bug
+  color: 12303291
+  
+question:
+  name: question

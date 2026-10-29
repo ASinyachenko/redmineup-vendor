@@ -1,0 +1,44 @@
+<p>
+  <label for="cb_settings_disable_taxes"><%= l(:label_redmineup_disable_taxes) %></label>
+  <%= hidden_field_tag 'settings[disable_taxes]', '0' %>
+  <%= check_box_tag 'settings[disable_taxes]', 1, Redmineup::Settings::Money.disable_taxes?, id: 'cb_settings_disable_taxes' %>
+</p>
+
+<span id="tax_data">
+  <p>
+    <label><%= l(:label_redmineup_default_tax) %></label>
+    <%= text_field_tag 'settings[default_tax]', Redmineup::Settings::Money.default_tax, size: 6, maxlength: 5 %> %
+  </p>
+
+  <p>
+    <label><%= l(:label_redmineup_tax_type) %></label>
+    <%= select_tag 'settings[tax_type]', options_for_select([[l(:label_redmineup_tax_type_exclusive), Redmineup::Settings::Money::TAX_TYPE_EXCLUSIVE],
+                                                             [l(:label_redmineup_tax_type_inclusive), Redmineup::Settings::Money::TAX_TYPE_INCLUSIVE]],
+                                                             @settings['tax_type']) %>
+  </p>
+</span>
+
+<p>
+  <label><%= l(:label_redmineup_default_currency) %></label>
+  <%= select_tag 'settings[default_currency]', options_for_select(all_currencies.insert(0, ['', '']), Redmineup::Settings::Money.default_currency) %>
+</p>
+
+<p>
+  <label><%= l(:label_redmineup_major_currencies) %></label>
+  <%= text_field_tag 'settings[major_currencies]', Redmineup::Settings::Money.major_currencies.join(', '), size: 40 %>
+  <br>
+  <em class="info"><%= l(:text_comma_separated) %></em>
+</p>
+
+<p>
+  <label><%= l(:label_redmineup_thousands_delimiter) %></label>
+  <%= select_tag 'settings[thousands_delimiter]',  options_for_select([["9 999", " "],
+                                                                       ["9,999", ","],
+                                                                       ["9.999", "."]], Redmineup::Settings::Money.thousands_delimiter) %>
+</p>
+
+<p>
+  <label><%= l(:label_redmineup_decimal_separator) %></label>
+  <%= select_tag 'settings[decimal_separator]',  options_for_select([["0.00", "."],
+                                                                     ["0,00", ","]], Redmineup::Settings::Money.decimal_separator) %>
+</p>

@@ -1,0 +1,13 @@
+ta-IN:
+  label_redmineup_settings: நாணய அமைப்புகள்
+  label_redmineup_money: நாணயம்
+  label_redmineup_disable_taxes: வரிகளை முடக்கு
+  label_redmineup_default_tax: இயல்புநிலை வரி மதிப்பு
+  label_redmineup_tax_type: வரி வகை
+  label_redmineup_tax_type_exclusive: வரி சேர்க்கப்படாதது
+  label_redmineup_tax_type_inclusive: வரி சேர்க்கப்பட்டது
+  label_redmineup_default_currency: இயல்புநிலை நாணயம்
+  label_redmineup_major_currencies: முக்கிய நாணயங்கள்
+  label_redmineup_thousands_delimiter: ஆயிரம் பிரிப்பான்
+  label_redmineup_decimal_separator: தசம பிரிப்பான்
+  lable_redmineup_add_tag: குறிச்சொல் சேர்

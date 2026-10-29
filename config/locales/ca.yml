@@ -1,0 +1,13 @@
+ca:
+  label_redmineup_settings: Configuració de moneda
+  label_redmineup_money: Moneda
+  label_redmineup_disable_taxes: Desactiva els impostos
+  label_redmineup_default_tax: Valor d'impost per defecte
+  label_redmineup_tax_type: Tipus d'impost
+  label_redmineup_tax_type_exclusive: Impost exclòs
+  label_redmineup_tax_type_inclusive: Impost inclòs
+  label_redmineup_default_currency: Moneda per defecte
+  label_redmineup_major_currencies: Monedes principals
+  label_redmineup_thousands_delimiter: Separador de milers
+  label_redmineup_decimal_separator: Separador decimal
+  lable_redmineup_add_tag: afegeix etiqueta

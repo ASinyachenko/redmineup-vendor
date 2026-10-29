@@ -1,0 +1,13 @@
+da:
+  label_redmineup_settings: Valutaindstillinger
+  label_redmineup_money: Valuta
+  label_redmineup_disable_taxes: Deaktiver skatter
+  label_redmineup_default_tax: Standardskatteværdi
+  label_redmineup_tax_type: Skattetype
+  label_redmineup_tax_type_exclusive: Moms eksklusive
+  label_redmineup_tax_type_inclusive: Moms inklusive
+  label_redmineup_default_currency: Standardvaluta
+  label_redmineup_major_currencies: Hovedvalutaer
+  label_redmineup_thousands_delimiter: Tusindtalsseparator
+  label_redmineup_decimal_separator: Decimalseparator
+  lable_redmineup_add_tag: tilføj tag

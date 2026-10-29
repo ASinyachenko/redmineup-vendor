@@ -1,0 +1,13 @@
+bg:
+  label_redmineup_settings: Парични настройки
+  label_redmineup_money: Пари
+  label_redmineup_disable_taxes: Изключване на данъците
+  label_redmineup_default_tax: Данък по подразбиране
+  label_redmineup_tax_type: Тип данък
+  label_redmineup_tax_type_exclusive: Без включен данък
+  label_redmineup_tax_type_inclusive: С включен данък
+  label_redmineup_default_currency: Валута по подразбиране
+  label_redmineup_major_currencies: Основни валути
+  label_redmineup_thousands_delimiter: Разделител на хилядите
+  label_redmineup_decimal_separator: Десетичен разделител
+  lable_redmineup_add_tag: добави етикет

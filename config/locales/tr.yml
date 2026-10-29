@@ -1,0 +1,13 @@
+tr:
+  label_redmineup_settings: Para ayarları
+  label_redmineup_money: Para
+  label_redmineup_disable_taxes: Vergileri devre dışı bırak
+  label_redmineup_default_tax: Varsayılan vergi değeri
+  label_redmineup_tax_type: Vergi türü
+  label_redmineup_tax_type_exclusive: Vergi hariç
+  label_redmineup_tax_type_inclusive: Vergi dahil
+  label_redmineup_default_currency: Varsayılan para birimi
+  label_redmineup_major_currencies: Ana para birimleri
+  label_redmineup_thousands_delimiter: Binlik ayracı
+  label_redmineup_decimal_separator: Ondalık ayracı
+  lable_redmineup_add_tag: etiket ekle

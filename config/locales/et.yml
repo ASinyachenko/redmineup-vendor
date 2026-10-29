@@ -1,0 +1,13 @@
+et:
+  label_redmineup_settings: Rahaseaded
+  label_redmineup_money: Raha
+  label_redmineup_disable_taxes: Keela maksud
+  label_redmineup_default_tax: Vaikimisi maksuväärtus
+  label_redmineup_tax_type: Maksu tüüp
+  label_redmineup_tax_type_exclusive: Maksuta
+  label_redmineup_tax_type_inclusive: Maksuga
+  label_redmineup_default_currency: Vaikevaluuta
+  label_redmineup_major_currencies: Põhivaluutad
+  label_redmineup_thousands_delimiter: Tuhandete eraldaja
+  label_redmineup_decimal_separator: Kümnenderaldaja
+  lable_redmineup_add_tag: lisa silt

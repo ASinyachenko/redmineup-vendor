@@ -1,0 +1,13 @@
+mk:
+  label_redmineup_settings: Поставки за пари
+  label_redmineup_money: Пари
+  label_redmineup_disable_taxes: Оневозможи даноци
+  label_redmineup_default_tax: Стандардна вредност на данок
+  label_redmineup_tax_type: Тип на данок
+  label_redmineup_tax_type_exclusive: Данокот не е вклучен
+  label_redmineup_tax_type_inclusive: Данокот е вклучен
+  label_redmineup_default_currency: Стандардна валута
+  label_redmineup_major_currencies: Главни валути
+  label_redmineup_thousands_delimiter: Разделувач на илјади
+  label_redmineup_decimal_separator: Децимален разделувач
+  lable_redmineup_add_tag: додај ознака

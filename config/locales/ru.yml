@@ -1,0 +1,14 @@
+ru:
+  label_redmineup_settings: Настройки валют
+  label_redmineup_money: Деньги
+
+  label_redmineup_disable_taxes: Отключить налоги
+  label_redmineup_default_tax: Ставка налога
+  label_redmineup_tax_type: Тип налога
+  label_redmineup_tax_type_exclusive: Налог добавлен к общей сумме
+  label_redmineup_tax_type_inclusive: Налог включен в общую сумму
+  label_redmineup_default_currency: Валюта по умолчанию
+  label_redmineup_major_currencies: Основные валюты
+  label_redmineup_thousands_delimiter: Разделитель разрядов
+  label_redmineup_decimal_separator: Десятичный разделитель
+  lable_redmineup_add_tag: добавить тег

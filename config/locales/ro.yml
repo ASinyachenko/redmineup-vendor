@@ -1,0 +1,13 @@
+ro:
+  label_redmineup_settings: Setări monedă
+  label_redmineup_money: Monedă
+  label_redmineup_disable_taxes: Dezactivează taxele
+  label_redmineup_default_tax: Valoarea implicită a taxei
+  label_redmineup_tax_type: Tip de taxă
+  label_redmineup_tax_type_exclusive: Taxă exclusă
+  label_redmineup_tax_type_inclusive: Taxă inclusă
+  label_redmineup_default_currency: Moneda implicită
+  label_redmineup_major_currencies: Monede principale
+  label_redmineup_thousands_delimiter: Separator de mii
+  label_redmineup_decimal_separator: Separator zecimal
+  lable_redmineup_add_tag: adaugă etichetă

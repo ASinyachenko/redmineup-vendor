@@ -1,0 +1,13 @@
+mn:
+  label_redmineup_settings: Мөнгөний тохиргоо
+  label_redmineup_money: Мөнгө
+  label_redmineup_disable_taxes: Татварыг идэвхгүй болгох
+  label_redmineup_default_tax: Татварын анхны утга
+  label_redmineup_tax_type: Татварын төрөл
+  label_redmineup_tax_type_exclusive: Татвар оруулаагүй
+  label_redmineup_tax_type_inclusive: Татвар орсон
+  label_redmineup_default_currency: Үндсэн валют
+  label_redmineup_major_currencies: Үндсэн валютууд
+  label_redmineup_thousands_delimiter: Мянгатын тусгаарлагч
+  label_redmineup_decimal_separator: Аравтын тусгаарлагч
+  lable_redmineup_add_tag: шошго нэмэх

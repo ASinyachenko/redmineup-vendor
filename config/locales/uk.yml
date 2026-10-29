@@ -1,0 +1,13 @@
+uk:
+  label_redmineup_settings: Налаштування грошей
+  label_redmineup_money: Гроші
+  label_redmineup_disable_taxes: Вимкнути податки
+  label_redmineup_default_tax: Типове значення податку
+  label_redmineup_tax_type: Тип податку
+  label_redmineup_tax_type_exclusive: Податок не включено
+  label_redmineup_tax_type_inclusive: Податок включено
+  label_redmineup_default_currency: Типова валюта
+  label_redmineup_major_currencies: Основні валюти
+  label_redmineup_thousands_delimiter: Роздільник тисяч
+  label_redmineup_decimal_separator: Десятковий роздільник
+  lable_redmineup_add_tag: додати тег

@@ -1,0 +1,13 @@
+sr:
+  label_redmineup_settings: Подешавања новца
+  label_redmineup_money: Новац
+  label_redmineup_disable_taxes: Онемогући порезе
+  label_redmineup_default_tax: Подразумевана вредност пореза
+  label_redmineup_tax_type: Врста пореза
+  label_redmineup_tax_type_exclusive: Порез није укључен
+  label_redmineup_tax_type_inclusive: Порез је укључен
+  label_redmineup_default_currency: Подразумевана валута
+  label_redmineup_major_currencies: Главне валуте
+  label_redmineup_thousands_delimiter: Раздвајач хиљада
+  label_redmineup_decimal_separator: Децимални раздвајач
+  lable_redmineup_add_tag: додај ознаку

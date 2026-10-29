@@ -1,0 +1,13 @@
+az:
+  label_redmineup_settings: Pul ayarları
+  label_redmineup_money: Pul
+  label_redmineup_disable_taxes: Vergiləri deaktiv et
+  label_redmineup_default_tax: Standart vergi dəyəri
+  label_redmineup_tax_type: Vergi növü
+  label_redmineup_tax_type_exclusive: Vergi daxil deyil
+  label_redmineup_tax_type_inclusive: Vergi daxildir
+  label_redmineup_default_currency: Standart valyuta
+  label_redmineup_major_currencies: Əsas valyutalar
+  label_redmineup_thousands_delimiter: Minlik ayırıcı
+  label_redmineup_decimal_separator: Onluq ayırıcı
+  lable_redmineup_add_tag: etiket əlavə et

@@ -1,0 +1,13 @@
+fi:
+  label_redmineup_settings: Rahaasetukset
+  label_redmineup_money: Raha
+  label_redmineup_disable_taxes: Poista verot käytöstä
+  label_redmineup_default_tax: Oletusveroarvo
+  label_redmineup_tax_type: Veron tyyppi
+  label_redmineup_tax_type_exclusive: Vero ei sisälly
+  label_redmineup_tax_type_inclusive: Vero sisältyy
+  label_redmineup_default_currency: Oletusvaluutta
+  label_redmineup_major_currencies: Päävaluutat
+  label_redmineup_thousands_delimiter: Tuhaterotin
+  label_redmineup_decimal_separator: Desimaalierotin
+  lable_redmineup_add_tag: lisää tunniste
